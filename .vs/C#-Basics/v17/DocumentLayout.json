@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Amdaris\\C#-Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1083C3CE-4D38-44EA-8601-514F2BA22AB1}|C#-Basics\\C#-Basics.csproj|d:\\workspace\\amdaris\\c#-basics\\c#-basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1083C3CE-4D38-44EA-8601-514F2BA22AB1}|C#-Basics\\C#-Basics.csproj|solutionrelative:c#-basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Amdaris\\C#-Basics\\C#-Basics\\Program.cs",
+              "RelativeDocumentMoniker": "C#-Basics\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Amdaris\\C#-Basics\\C#-Basics\\Program.cs",
+              "RelativeToolTip": "C#-Basics\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAGsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:43:01.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
