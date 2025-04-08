@@ -12,3 +12,4 @@ D:\Workspace\Amdaris\C#-Basics\C#-Basics\obj\Debug\net8.0\refint\C#-Basics.dll
 D:\Workspace\Amdaris\C#-Basics\C#-Basics\obj\Debug\net8.0\C#-Basics.pdb
 D:\Workspace\Amdaris\C#-Basics\C#-Basics\obj\Debug\net8.0\C#-Basics.genruntimeconfig.cache
 D:\Workspace\Amdaris\C#-Basics\C#-Basics\obj\Debug\net8.0\ref\C#-Basics.dll
+D:\Workspace\Amdaris\C#-Basics\C#-Basics\obj\Debug\net8.0\C#-Basics.sourcelink.json
